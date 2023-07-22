@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obinnaelviso
-- 👀 I'm an expert in frameworks Laravel, MySQL Javascript, Jquery, Vue.js, Nuxt.js and Flutter, then that's me
-- 🍕 I speak Python, PHP, Java, Kotlin, and Dart
-- 🌱 I’m currently mastering Nuxt.js and Flutter
+- 👀 I'm an expert in frameworks Laravel, Jquery, Alpine.js, Vue.js, Nuxt.js and Flutter, then that's me
+- 🍕 I speak Python, PHP, Javscript, Java, Kotlin, and Dart
+- 🌱 I’m currently mastering Laravel, Nuxt.js and Flutter
 - 💞️ I’m looking to collaborate on a lot of open source projects
 - 📫 Send me an email @ dreamor47@gmail.com or visit my website at https://joytekmotion.com
 - 🔍 On all socials, search for **obinnaelviso**
