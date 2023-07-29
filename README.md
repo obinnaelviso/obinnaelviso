@@ -3,11 +3,11 @@
 - 🍕 I speak Python, PHP, Javscript, Java, Kotlin, and Dart
 - 🌱 I’m currently mastering Laravel, Nuxt.js and Flutter
 - 💞️ I’m looking to collaborate on a lot of open source projects
-- 📫 Send me an email @ dreamor47@gmail.com or visit my website at https://joytekmotion.com
+- 📫 Send me an email @ dreamor47@gmail.com or visit my website at https://www.joytekmotion.com
 - 🔍 On all socials, search for **obinnaelviso**
 - 🌍 I reside in the beautiful continent of Africa
 - 🇳🇬 I solve Nigerian IT problems
-- 🗺 I'm open to the world
+- 🗺 I am open to the world
 
 <!---
 obinnaelviso/obinnaelviso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
